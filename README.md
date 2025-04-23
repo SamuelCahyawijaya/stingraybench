@@ -92,4 +92,10 @@ The StingrayBench is available under the [Creative Commons Attribution-ShareAlik
 
 ## Citation Information
 ```
+@article{cahyawijaya2024thank,
+  title={Thank You, Stingray: Multilingual Large Language Models Can Not (Yet) Disambiguate Cross-Lingual Word Sense},
+  author={Cahyawijaya, Samuel and Zhang, Ruochen and Lovenia, Holy and Cruz, Jan Christian Blaise and Gilbert, Elisa and Nomoto, Hiroki and Aji, Alham Fikri},
+  journal={arXiv preprint arXiv:2410.21573},
+  year={2024}
+}
 ```
